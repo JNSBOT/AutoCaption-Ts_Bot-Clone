@@ -43,16 +43,6 @@ You can deploy the bot using heroku
  
 - 👇 Press the deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JNSBOT/AutoCaption-Ts_Bot-Clone)
-
-## Please note
-
-I created this bot because it might be helpful for Channel Admins/Owners, so they have no need to edit all files
-
-I am not a progrommer though it is written in my own hands 
-If you have any suggestions to update the bot for better user friendly expirience you can contact me 
-Through [@Ts_Bots](https://telegram.me/Ts_bots) or you can contact me directly.
-
 ## My Channel
 
 <b>[JNS BOTS](https://telegram.me/JNS_BOTS)</b>
