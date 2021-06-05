@@ -3,7 +3,7 @@
 
 An open source telegram Auto Caption bot
 
-- For demo you can check the <b>[AutoCaption_Ts_Bot](https://telegram.me/JNS_autoCaption_bot)</b>
+- For demo you can check the <b>[JNS AutoCaption bot](https://telegram.me/JNS_autoCaption_bot)</b>
 
 # About Bot
 
