@@ -57,6 +57,16 @@ Through [@Ts_Bots](https://telegram.me/Ts_bots) or you can contact me directly.
 
 <b>[@Ts_Bots](https://telegram.me/ts_bots)</b>
 
+### Deploy 
+
+Deploy on Heroku
+<p align="left">
+  <a href="https://heroku.com/deploy?template=https://github.com/JNSBOT/JNS-AutoCaption-">
+     <img height="70px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+</p>
+
+
 
 ### Thanks to
 
