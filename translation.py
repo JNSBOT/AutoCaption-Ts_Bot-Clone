@@ -8,8 +8,6 @@ class Translation(object):
 I am a simple auto caption bot
 I can automatically add pre-setted caption to the files in channels
 
-I am currently working for a channel if you want to use me, Use my source code and Deploy me
-
 ⚜️ Maintained By 👉 @{}
 """    
 
@@ -28,7 +26,7 @@ I am currently working for a channel if you want to use me, Use my source code a
 
 👉 Forward your files in your channel and I will edit it
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a></b>
 """    
               
 
@@ -38,7 +36,7 @@ I am currently working for a channel if you want to use me, Use my source code a
 📕 --𝐀𝐛𝐨𝐮𝐭-- --𝐌𝐞--
 
 
-○ ᴍʏ ɴᴀᴍᴇ : [Auto Caption | Ts Bots](https://t.me/Anylink_Movies)
+○ My Team : [ＪƝ⟆ ᗷ〇Ƭ⟆](https://t.me/jns_bots)
 
 ○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
@@ -48,16 +46,12 @@ I am currently working for a channel if you want to use me, Use my source code a
 
 ○ ᴠᴇʀsɪᴏɴ : 1.1.0
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ  : [ᴛᴏᴜᴄʜ ᴍᴇ 🤗](https://github.com/Ts-bots/AutoCaption-Ts_Bot-Clone)
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ  : [ᴛᴏᴜᴄʜ ᴍᴇ 🤗](https://github.com/jnsbots/jns-AutoCaption-)
 
 ○ ᴄʀᴇᴀᴛᴏʀ :  [ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ](https://t.me/trackstudio)
  
 __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀɴᴅ ᴛʜɪs ɪs ᴍʏ ғɪʀsᴛ ᴛɪᴍᴇ ɪ ᴀᴍ ɢɪᴠɪɴɢ ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ ʙᴏᴛ ғᴏʀ ᴇᴠᴇʀʏᴏɴᴇ ᴡʜɪᴄʜ ᴡᴀs ᴡʀɪᴛᴇʀ ɪɴ ᴍʏ ᴏᴡɴ ʜᴀɴᴅs, sᴏ ɪғ ᴀɴʏ ʙᴜɢs ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ sᴀʏ
 ɪᴛ ᴍᴀʏ ʙᴇ ɴᴏᴛ ᴛʜᴇ ʙᴇsᴛ ʙᴜᴛ ғᴏʀ ᴍᴇ ɪᴛ ɪs ᴛʜᴇ ʙᴇsᴛ 🥰
-
-ᴛʜᴀɴᴋs ᴛᴏ ᴍʏ ʙᴇʟᴏᴠᴇᴅ ғʀɪᴇɴᴅ [ᴀɴᴏɴʏᴍᴏᴜs](https://t.me/Anoymous_Ns)__
-
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/ts_bots)**
 
 """
 
@@ -82,7 +76,7 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 📌 <code>[hyperlink_text](https://t.me/Ts_bots)</code> 
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a></b>
 
 """
 
@@ -98,7 +92,7 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a></b>
 
 """
 
@@ -108,6 +102,6 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 Only my admin can see my status, if you want this bot you can take my source code and deploy it. 
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a></b>
 
 """
