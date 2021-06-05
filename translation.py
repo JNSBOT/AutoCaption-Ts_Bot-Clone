@@ -74,7 +74,7 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 👉 <b>Hyperlink text</b>
 
-📌 <code>[hyperlink_text](https://t.me/Ts_bots)</code> 
+📌 <code>[hyperlink_text](https://t.me/jns_bots)</code> 
 
 <b><a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a></b>
 
