@@ -3,7 +3,7 @@
 
 An open source telegram Auto Caption bot
 
-- For demo you can check the <b>[AutoCaption_Ts_Bot](https://telegram.me/AutoCaption_Ts_Bot)</b>
+- For demo you can check the <b>[AutoCaption_Ts_Bot](https://telegram.me/JNS_autoCaption_bot)</b>
 
 # About Bot
 
@@ -55,7 +55,7 @@ Through [@Ts_Bots](https://telegram.me/Ts_bots) or you can contact me directly.
 
 ## My Channel
 
-<b>[@Ts_Bots](https://telegram.me/ts_bots)</b>
+<b>[JNS BOTS](https://telegram.me/JNS_BOTS)</b>
 
 ### Deploy 
 
@@ -72,4 +72,4 @@ Deploy on Heroku
 
 <i>❤️ Thanks to everyone in this journey</i> 
 
-<i>🥰 Thanks to [Anonymous](https://telegram.me/Ns-AnoNymouS) for helping me in all the ways</i> 
+<i>🥰 Thanks to [Anonymous](https://telegram.me/Ns-AnoNymouS) &  [TS BOTS](https://telegram.me/The_proGrammerr)
