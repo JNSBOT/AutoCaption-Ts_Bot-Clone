@@ -1,5 +1,5 @@
 {
-  "name": "AutoCaption_Ts_Bot-Clone",
+  "name": "JNS AutoCaption ",
   "description": "Telegram auto caption bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -10,7 +10,7 @@
   "success_url": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
   "website": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
   "repository": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
-  "logo": "https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg",
+  "logo": "https://telegra.ph/file/1a9c62a5fd9d764ab3d0e.jpg",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -21,24 +21,24 @@
       "value": ""
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Get this value from @JNS_tg_orgbot",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Get this value from @JNS_tg_orgbot",
       "value": ""
     },
     "ADMIN_ID": {
-      "description": "Your user ID like 1223445566",
+      "description": "Your user ID like 1234567890 @JNS_id_finderbot",
       "value": ""      
     },
     "CAPTION_POSITION": {
       "description": "Position of your caption [Enter top or bottom or nil]",
-      "value": ""
+      "value": "nil"
     },
     "ADMIN_USERNAME": {
-      "description": "Admin username without [@], Default will be Ts_bots",
-      "value": "Ts_bots", 
+      "description": "Admin username without [@], Default will be jns_bots",
+      "value": "jns_bots", 
       "required": false
     }        
     
