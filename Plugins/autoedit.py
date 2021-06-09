@@ -23,17 +23,12 @@ async def editing(bot, message):
       except:
          caption_text = ""
          pass 
-      try:
-          if (message.document or message.video or message.audio):
-             try:
-                file_caption = f"`{message.caption}`"
-                if file_caption == "None":
-                   file_caption = " "
-             except:
-                file_caption = " "
-                pass 
-      except:
-          pass
+      if (message.document or message.video or message.audio): 
+          if message.caption:                        
+             file_caption = f"`{message.caption}`"                
+          else:
+             file_caption = ""           
+                                                 
       try:
           if caption_position == "top":
              await bot.edit_message_caption(
